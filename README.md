@@ -24,3 +24,5 @@ Actual Result:
 
 Screenshots, logs, and screen videos(if applicable)
 
+Link to bug reports: https://firstsprint.atlassian.net/jira/software/projects/QBTFP/boards/133?atlOrigin=eyJpIjoiZWJjMjA4YzdlZWI2NGEwMGJjMDNjOGE4ODRhNTRhNzkiLCJwIjoiaiJ9
+
